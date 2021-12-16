@@ -1,3 +1,3 @@
 ---
-title: API List
+title: APIs
 ---
